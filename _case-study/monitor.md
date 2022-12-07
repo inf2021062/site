@@ -11,3 +11,4 @@ tags:
   - LG
 ---
  
+{% include cs-monitor.md %}
