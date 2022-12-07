@@ -11,4 +11,5 @@ tags:
   - Bill English
   - Razer
 ---
- 
+
+{% include bio-William-English.md %}
